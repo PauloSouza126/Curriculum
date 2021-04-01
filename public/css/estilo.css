@@ -1,0 +1,17 @@
+/*Estilo*/
+
+.backgroundext{
+	color: rgb(0,150,220);
+	background-color: rgba(0,123,255,0);
+	border-color: rgba(85,45,255,0);
+	padding-bottom: 16px;
+}
+
+.backgroundform{
+	color: #363636;
+	background-color: #DEB887;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+
